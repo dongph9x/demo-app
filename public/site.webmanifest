@@ -1,6 +1,6 @@
 {
-    "name": "timegosoftware",
-    "short_name": "timegosoftware",
+    "name": "demo-app",
+    "short_name": "demo-app",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
